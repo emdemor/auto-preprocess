@@ -1,1 +1,1 @@
-# auto-preprocess
+# Package `auto_preprocess`
